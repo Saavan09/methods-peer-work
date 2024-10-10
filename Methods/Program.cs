@@ -27,8 +27,11 @@ class Program
         shawnFavNumber = 43;
         shawnLuckyNumber = 7;
 
+        ///Subtraction function
+        ///Takes in 2 integer parameters
+        ///Subtracts the 2nd value from the 1st parameter given
         int Subtract(int x, int y){
-            return (y - x);
+            return (x - y);
         }
 
         //start of program
@@ -41,7 +44,9 @@ class Program
         int shawnSubtract = Subtract(shawnFavNumber, shawnLuckyNumber);
         Console.WriteLine("Adding Saavan's numbers..." + saavanFavNumber + " + " + saavanLuckyNumber + " = " + saavanAdd);
         //adding shawn's numbers
+        Console.WriteLine("Adding Shawn's numbers..." + shawnFavNumber + " + " + shawnLuckyNumber + " = " + saavanAdd);
         //subtracting saavan's numbers
+
         //subtracting shawn's numbers
         Console.WriteLine("Subtracting Shawn's numbers..." + shawnFavNumber + " - " + shawnLuckyNumber + " = " + shawnSubtract);
 
