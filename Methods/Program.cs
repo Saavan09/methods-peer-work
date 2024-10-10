@@ -41,6 +41,8 @@ class Program
 
         //testing the functions
         int saavanAdd = Add(saavanFavNumber, saavanLuckyNumber);
+        int shawnAdd = Add(shawnFavNumber, shawnLuckyNumber);
+
         int shawnSubtract = Subtract(shawnFavNumber, shawnLuckyNumber);
         Console.WriteLine("Adding Saavan's numbers..." + saavanFavNumber + " + " + saavanLuckyNumber + " = " + saavanAdd);
         //adding shawn's numbers
