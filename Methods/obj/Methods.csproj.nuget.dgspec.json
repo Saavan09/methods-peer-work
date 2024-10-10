@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trave\\OneDrive\\Desktop\\ClassDocs\\C#\\THUB\\methods-peer-work\\Methods\\Methods.csproj": {}
+    "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\methods-peer-work\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trave\\OneDrive\\Desktop\\ClassDocs\\C#\\THUB\\methods-peer-work\\Methods\\Methods.csproj": {
+    "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\methods-peer-work\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trave\\OneDrive\\Desktop\\ClassDocs\\C#\\THUB\\methods-peer-work\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\methods-peer-work\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\trave\\OneDrive\\Desktop\\ClassDocs\\C#\\THUB\\methods-peer-work\\Methods\\Methods.csproj",
-        "packagesPath": "C:\\Users\\trave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trave\\OneDrive\\Desktop\\ClassDocs\\C#\\THUB\\methods-peer-work\\Methods\\obj\\",
+        "projectPath": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\methods-peer-work\\Methods\\Methods.csproj",
+        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shawn\\OneDrive\\Documents\\GitHub\\methods-peer-work\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trave\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
