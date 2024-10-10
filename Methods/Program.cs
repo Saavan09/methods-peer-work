@@ -22,6 +22,7 @@ class Program
 
 
         //start of program
-
+        Console.WriteLine("Saavan's favorite number is " + saavanFavNumber + ", and his lucky number is " + saavanLuckyNumber + ".");
+        
     }
 }
