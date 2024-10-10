@@ -46,7 +46,7 @@ class Program
         int shawnSubtract = Subtract(shawnFavNumber, shawnLuckyNumber);
         Console.WriteLine("Adding Saavan's numbers..." + saavanFavNumber + " + " + saavanLuckyNumber + " = " + saavanAdd);
         //adding shawn's numbers
-        Console.WriteLine("Adding Shawn's numbers..." + shawnFavNumber + " + " + shawnLuckyNumber + " = " + saavanAdd);
+        Console.WriteLine("Adding Shawn's numbers..." + shawnFavNumber + " + " + shawnLuckyNumber + " = " + shawnAdd);
         //subtracting saavan's numbers
 
         //subtracting shawn's numbers
