@@ -9,8 +9,19 @@ class Program
         int saavanFavNumber;
         int saavanLuckyNumber;
 
+        //Shawn's variable declarations
+
+
+
         //Saavan's variable initializations
         saavanFavNumber = 8;
         saavanLuckyNumber = 9;
+
+        //Shawn's variable initializations
+
+
+
+        //start of program
+
     }
 }
