@@ -1,6 +1,12 @@
-﻿using System;
+﻿/*
 
+Names: Saavan Tandon and Shawn Tyson
+Class: IGME 201.01 with Nick
+Due date: Sunday October 13
 
+*/
+
+using System;
 class Program 
 {
     public static void Main(string[] args)
@@ -33,6 +39,12 @@ class Program
         //subtracting shawn's numbers
     }
 
+/// <summary>
+/// Takes in 2 integers and returns the result of them added together
+/// </summary>
+/// <param name="num1">First integer</param>
+/// <param name="num2">Second integer</param>
+/// <returns>Integer equal to num1 + num2</returns>
     static int Add(int num1, int num2)
     {
         return num1 + num2;
