@@ -42,16 +42,24 @@ class Program
         //testing the functions
         int saavanAdd = Add(saavanFavNumber, saavanLuckyNumber);
         int shawnAdd = Add(shawnFavNumber, shawnLuckyNumber);
-
+        int saavanSubtract = Subtract(saavanFavNumber, saavanLuckyNumber);
         int shawnSubtract = Subtract(shawnFavNumber, shawnLuckyNumber);
+        //adding Saavans's numbers
         Console.WriteLine("Adding Saavan's numbers..." + saavanFavNumber + " + " + saavanLuckyNumber + " = " + saavanAdd);
         //adding shawn's numbers
         Console.WriteLine("Adding Shawn's numbers..." + shawnFavNumber + " + " + shawnLuckyNumber + " = " + shawnAdd);
         //subtracting saavan's numbers
-
+        Console.WriteLine("Subtracting Saavan's numbers..." + saavanFavNumber + " - " + saavanLuckyNumber + " = " + saavanSubtract);
         //subtracting shawn's numbers
         Console.WriteLine("Subtracting Shawn's numbers..." + shawnFavNumber + " - " + shawnLuckyNumber + " = " + shawnSubtract);
 
+        //add favorite numbers
+        int favAdd = saavanFavNumber + shawnFavNumber;
+        Console.WriteLine("Adding both favorite numbers..." + saavanFavNumber + " + " + shawnFavNumber + " = " + favAdd);
+
+        //subtract lucky numbers
+        int luckySubtract = saavanLuckyNumber - shawnLuckyNumber;
+        Console.WriteLine("Subtracting both lucky numbers..." + saavanLuckyNumber + " - " + shawnLuckyNumber + " = " + luckySubtract);
     }
 
     /// <summary>
